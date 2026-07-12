@@ -13,11 +13,8 @@ Every code below is **verified by actually redeeming it in-game** before it's ma
 <!-- active-codes:start -->
 | Code | Reward | Released | Status |
 |------|--------|----------|--------|
-| `FIXES3` | 15 free rerolls | 2026-07-09 | ✅ Active |
-| `2MIL` | 15 free rerolls | 2026-07-08 | ✅ Active |
-| `FIXES2` | 5 free rerolls | 2026-07-08 | ✅ Active |
-| `FIXES` | 10 free rerolls | 2026-07-08 | ✅ Active |
-| `15REROLLS` | 15 free rerolls | 2026-07-05 | ✅ Active |
+| `MAPUPDATE` | 25 free rerolls | — | ✅ Active |
+| `SECRET` | Free rerolls (amount unconfirmed) | — | ✅ Active |
 <!-- active-codes:end -->
 
 ### Expired codes
@@ -25,6 +22,11 @@ Every code below is **verified by actually redeeming it in-game** before it's ma
 <!-- expired-codes:start -->
 | Code | Reward | Status |
 |------|--------|--------|
+| `FIXES3` | 15 free rerolls | ❌ Expired |
+| `2MIL` | 15 free rerolls | ❌ Expired |
+| `FIXES2` | 5 free rerolls | ❌ Expired |
+| `FIXES` | 10 free rerolls | ❌ Expired |
+| `15REROLLS` | 15 free rerolls | ❌ Expired |
 | `GAKURAN` | Launch code | ❌ Expired |
 <!-- expired-codes:end -->
 

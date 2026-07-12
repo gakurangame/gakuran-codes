@@ -8,37 +8,49 @@
   "lastVerified": "2026-07-12",
   "codes": [
     {
+      "code": "MAPUPDATE",
+      "reward": "25 free rerolls",
+      "status": "active",
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "code": "SECRET",
+      "reward": "Free rerolls (amount unconfirmed)",
+      "status": "active",
+      "lastVerified": "2026-07-12"
+    },
+    {
       "code": "FIXES3",
       "reward": "15 free rerolls",
-      "status": "active",
+      "status": "expired",
       "released": "2026-07-09",
       "lastVerified": "2026-07-12"
     },
     {
       "code": "2MIL",
       "reward": "15 free rerolls",
-      "status": "active",
+      "status": "expired",
       "released": "2026-07-08",
       "lastVerified": "2026-07-12"
     },
     {
       "code": "FIXES2",
       "reward": "5 free rerolls",
-      "status": "active",
+      "status": "expired",
       "released": "2026-07-08",
       "lastVerified": "2026-07-12"
     },
     {
       "code": "FIXES",
       "reward": "10 free rerolls",
-      "status": "active",
+      "status": "expired",
       "released": "2026-07-08",
       "lastVerified": "2026-07-12"
     },
     {
       "code": "15REROLLS",
       "reward": "15 free rerolls",
-      "status": "active",
+      "status": "expired",
       "released": "2026-07-05",
       "lastVerified": "2026-07-12"
     },
