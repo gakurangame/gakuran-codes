@@ -1,0 +1,52 @@
+{
+  "dataset": "gakuran-codes",
+  "description": "Redeem codes for the Roblox game (学乱) Gakuran. Every code is hand-verified by redeeming it in-game before being marked active.",
+  "game": "(学乱) Gakuran",
+  "platform": "Roblox",
+  "source": "https://gakurantools.com/codes",
+  "license": "CC-BY-4.0",
+  "lastVerified": "2026-07-12",
+  "codes": [
+    {
+      "code": "FIXES3",
+      "reward": "15 free rerolls",
+      "status": "active",
+      "released": "2026-07-09",
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "code": "2MIL",
+      "reward": "15 free rerolls",
+      "status": "active",
+      "released": "2026-07-08",
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "code": "FIXES2",
+      "reward": "5 free rerolls",
+      "status": "active",
+      "released": "2026-07-08",
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "code": "FIXES",
+      "reward": "10 free rerolls",
+      "status": "active",
+      "released": "2026-07-08",
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "code": "15REROLLS",
+      "reward": "15 free rerolls",
+      "status": "active",
+      "released": "2026-07-05",
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "code": "GAKURAN",
+      "reward": "Launch code",
+      "status": "expired",
+      "lastVerified": "2026-07-12"
+    }
+  ]
+}

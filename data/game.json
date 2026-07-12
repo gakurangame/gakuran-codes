@@ -1,0 +1,13 @@
+{
+  "dataset": "gakuran-game",
+  "description": "Basic facts about the Roblox game (学乱) Gakuran, from the official Roblox API / game page.",
+  "license": "CC-BY-4.0",
+  "source": "https://gakurantools.com",
+  "lastVerified": "2026-07-11",
+  "name": "(学乱) Gakuran",
+  "platform": "Roblox",
+  "placeId": "128736949265057",
+  "universeId": "9199655655",
+  "launched": "2025-11-19",
+  "gameUrl": "https://www.roblox.com/games/128736949265057/Gakuran"
+}

@@ -1,0 +1,23 @@
+{
+  "dataset": "gakuran-official-links",
+  "description": "Official links for the Roblox game (学乱) Gakuran, cross-checked against the official Discord #links embed, Trello, and the Roblox game/group pages.",
+  "game": "(学乱) Gakuran",
+  "platform": "Roblox",
+  "source": "https://gakurantools.com/links",
+  "license": "CC-BY-4.0",
+  "lastVerified": "2026-07-12",
+  "links": {
+    "roblox": {
+      "game": "https://www.roblox.com/games/128736949265057/Gakuran",
+      "group": "https://www.roblox.com/communities/416091513/Gakuran"
+    },
+    "discord": {
+      "main": "https://discord.gg/gakuran",
+      "support": "https://discord.gg/DQsb9J38B",
+      "competitive": "https://discord.gg/gakurancomp"
+    },
+    "project": {
+      "trello": "https://trello.com/b/v3WatB1P"
+    }
+  }
+}
