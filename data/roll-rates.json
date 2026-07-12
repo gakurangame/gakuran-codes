@@ -3,8 +3,8 @@
   "description": "Character roll probabilities in the Roblox game (学乱) Gakuran. Only officially published numbers are included: the rarity-tier drop rates. Per-style, per-height, and per-race odds have not been published by the developers, so they are null rather than guessed. Qualitative height correlations confirmed by the developers/community are carried in `note` fields without invented percentages.",
   "game": "(学乱) Gakuran",
   "platform": "Roblox",
-  "source": "https://gakurantools.com/roll-calculator",
   "license": "CC-BY-4.0",
+  "source": "https://gakurantools.com/roll-calculator",
   "lastVerified": "2026-07-12",
   "robuxPerRoll": 2,
   "rarityRates": {
@@ -14,7 +14,11 @@
     "Common": 0.59
   },
   "ethnicities": [
-    { "slug": "japanese", "name": "Japanese", "chance": null },
+    {
+      "slug": "japanese",
+      "name": "Japanese",
+      "chance": null
+    },
     {
       "slug": "african",
       "name": "African",
@@ -27,13 +31,21 @@
       "chance": null,
       "note": "Tends to roll taller heights more often than other races (qualitative, no published percentage)."
     },
-    { "slug": "middle-eastern", "name": "Middle Eastern", "chance": null },
+    {
+      "slug": "middle-eastern",
+      "name": "Middle Eastern",
+      "chance": null
+    },
     {
       "slug": "indian",
       "name": "Indian",
       "chance": null,
       "note": "Rolls taller heights the least often among all races (qualitative, no published percentage)."
     },
-    { "slug": "latinx", "name": "Latinx", "chance": null }
+    {
+      "slug": "latinx",
+      "name": "Latinx",
+      "chance": null
+    }
   ]
 }

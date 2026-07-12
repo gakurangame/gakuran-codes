@@ -4,10 +4,13 @@ Machine-readable, hand-verified data for the Roblox game **[(学乱) Gakuran](ht
 
 Every code below is **verified by actually redeeming it in-game** before it's marked active — not scraped from other lists. Data is maintained by [gakurantools.com](https://gakurantools.com) and refreshed whenever the developers ship a new code.
 
+<!-- last-verified:start -->
 **Last verified: 2026-07-12**
+<!-- last-verified:end -->
 
 ## Active Gakuran codes
 
+<!-- active-codes:start -->
 | Code | Reward | Released | Status |
 |------|--------|----------|--------|
 | `FIXES3` | 15 free rerolls | 2026-07-09 | ✅ Active |
@@ -15,12 +18,15 @@ Every code below is **verified by actually redeeming it in-game** before it's ma
 | `FIXES2` | 5 free rerolls | 2026-07-08 | ✅ Active |
 | `FIXES` | 10 free rerolls | 2026-07-08 | ✅ Active |
 | `15REROLLS` | 15 free rerolls | 2026-07-05 | ✅ Active |
+<!-- active-codes:end -->
 
 ### Expired codes
 
+<!-- expired-codes:start -->
 | Code | Reward | Status |
 |------|--------|--------|
 | `GAKURAN` | Launch code | ❌ Expired |
+<!-- expired-codes:end -->
 
 Human-friendly version (with redeem walkthrough and screenshots): **[gakurantools.com/codes](https://gakurantools.com/codes)** · [Español](https://gakurantools.com/es/codes) · [Português](https://gakurantools.com/pt/codes)
 

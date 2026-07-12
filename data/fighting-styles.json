@@ -3,8 +3,8 @@
   "description": "Fighting styles in the Roblox game (学乱) Gakuran, with rarity tier, official tier drop rates, and heavy-attack perks. Drop rates are the rarity tier's combined rate — the developers have not published a per-style split within a tier, so none is invented here.",
   "game": "(学乱) Gakuran",
   "platform": "Roblox",
-  "source": "https://gakurantools.com/fighting-styles",
   "license": "CC-BY-4.0",
+  "source": "https://gakurantools.com/fighting-styles",
   "lastVerified": "2026-07-12",
   "rarityRates": {
     "Legendary": 0.01,
@@ -73,7 +73,7 @@
       "rarity": "Uncommon",
       "tierDropRate": 0.3,
       "heightFit": "any",
-      "heavyEffect": "Unstable: +30% damage dealt but +10% damage taken (v7.203 balance patch)",
+      "heavyEffect": "Unstable: +30% damage dealt but +10% damage taken",
       "lastVerified": "2026-07-12"
     },
     {
