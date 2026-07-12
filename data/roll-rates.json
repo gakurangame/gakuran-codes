@@ -1,11 +1,11 @@
 {
   "dataset": "gakuran-roll-rates",
-  "description": "Character roll probabilities in the Roblox game (学乱) Gakuran. Only officially published numbers are included: the rarity-tier drop rates. Per-style, per-height, and per-race odds have not been published by the developers, so they are null rather than guessed. Qualitative height correlations confirmed by the developers/community are carried in `note` fields without invented percentages.",
+  "description": "Character roll probabilities in the Roblox game (学乱) Gakuran. Only officially published numbers are included: the rarity-tier drop rates and the official ethnicity odds (Japanese 95%, the other five 1% each). Per-style odds within a tier and exact height odds have not been published, so they are null rather than guessed. The developers' official per-ethnicity average heights and height gameplay effects are included as published.",
   "game": "(学乱) Gakuran",
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/roll-calculator",
-  "lastVerified": "2026-07-12",
+  "lastVerified": "2026-07-13",
   "robuxPerRoll": 2,
   "rarityRates": {
     "Legendary": 0.01,
@@ -17,35 +17,123 @@
     {
       "slug": "japanese",
       "name": "Japanese",
-      "chance": null
-    },
-    {
-      "slug": "african",
-      "name": "African",
-      "chance": null,
-      "note": "Tends to roll taller heights more often than other races (qualitative, no published percentage)."
+      "chance": 0.95
     },
     {
       "slug": "european",
       "name": "European",
-      "chance": null,
-      "note": "Tends to roll taller heights more often than other races (qualitative, no published percentage)."
+      "chance": 0.01,
+      "note": "Tallest average height of all ethnicities (male 178 cm / female 165 cm)."
+    },
+    {
+      "slug": "african",
+      "name": "African",
+      "chance": 0.01,
+      "note": "Second-tallest average height (male 175 cm / female 162 cm)."
     },
     {
       "slug": "middle-eastern",
       "name": "Middle Eastern",
-      "chance": null
+      "chance": 0.01
+    },
+    {
+      "slug": "latinx",
+      "name": "Latino/Latina",
+      "chance": 0.01
     },
     {
       "slug": "indian",
       "name": "Indian",
-      "chance": null,
-      "note": "Rolls taller heights the least often among all races (qualitative, no published percentage)."
+      "chance": 0.01,
+      "note": "Shortest average height of all ethnicities (male 167 cm / female 155 cm)."
+    }
+  ],
+  "heightAverages": [
+    {
+      "slug": "european",
+      "name": "European",
+      "male": {
+        "cm": 178,
+        "label": "5'10\""
+      },
+      "female": {
+        "cm": 165,
+        "label": "5'5\""
+      }
+    },
+    {
+      "slug": "african",
+      "name": "African",
+      "male": {
+        "cm": 175,
+        "label": "5'9\""
+      },
+      "female": {
+        "cm": 162,
+        "label": "5'4\""
+      }
+    },
+    {
+      "slug": "middle-eastern",
+      "name": "Middle Eastern",
+      "male": {
+        "cm": 173,
+        "label": "5'8\""
+      },
+      "female": {
+        "cm": 160,
+        "label": "5'3\""
+      }
+    },
+    {
+      "slug": "japanese",
+      "name": "Japanese",
+      "male": {
+        "cm": 171,
+        "label": "5'7\""
+      },
+      "female": {
+        "cm": 159,
+        "label": "5'3\""
+      }
     },
     {
       "slug": "latinx",
-      "name": "Latinx",
-      "chance": null
+      "name": "Latino/Latina",
+      "male": {
+        "cm": 170,
+        "label": "5'7\""
+      },
+      "female": {
+        "cm": 158,
+        "label": "5'2\""
+      }
+    },
+    {
+      "slug": "indian",
+      "name": "Indian",
+      "male": {
+        "cm": 167,
+        "label": "5'6\""
+      },
+      "female": {
+        "cm": 155,
+        "label": "5'1\""
+      }
     }
-  ]
+  ],
+  "heightEffects": {
+    "taller": [
+      "More health and damage",
+      "Larger hitboxes",
+      "Slower movement and attacks",
+      "Shorter dashes"
+    ],
+    "shorter": [
+      "Less health and damage",
+      "Smaller hitboxes",
+      "Faster movement, attacks, and cooldowns",
+      "Longer dashes"
+    ]
+  }
 }

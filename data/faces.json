@@ -1,0 +1,83 @@
+{
+  "dataset": "gakuran-faces",
+  "description": "Face and hair-color roll data in the Roblox game (学乱) Gakuran, from the official Trello 'Faces (both genders)' and 'Hair Color' cards: the 1% Mogger face and its variants, the 99% normal face pools (published mostly as Roblox asset ids — only a few faces have official names), and the natural/dye hair-color mechanics.",
+  "game": "(学乱) Gakuran",
+  "platform": "Roblox",
+  "license": "CC-BY-4.0",
+  "source": "https://gakurantools.com/guides/faces",
+  "lastVerified": "2026-07-13",
+  "faceRoll": {
+    "moggerChance": 0.01,
+    "normalChance": 0.99
+  },
+  "moggerVariants": {
+    "male": [
+      "Blue Eyed Mogger",
+      "Green Eyed Mogger",
+      "Heterochromia Mogger",
+      "Black Eyed Mogger",
+      "Amber/Gold Eyed Mogger"
+    ],
+    "female": [
+      "Female Mogger"
+    ]
+  },
+  "normalFaces": {
+    "male": {
+      "count": 12,
+      "named": [
+        "Grin Face",
+        "Cat Face"
+      ],
+      "assetIds": [
+        "86289239908836",
+        "96752701683486",
+        "117037225804958",
+        "118562158922731",
+        "125641336785645",
+        "70380101015452",
+        "75620175406187",
+        "78671842987290",
+        "126629969170916",
+        "135637759901846"
+      ]
+    },
+    "female": {
+      "count": 15,
+      "named": [
+        "Gyaru"
+      ],
+      "assetIds": [
+        "106968405009363",
+        "115370115024390",
+        "116966342306525",
+        "70628566514039",
+        "86086683261539",
+        "87084340736479",
+        "96773291489286",
+        "96780507904344",
+        "102133979725615",
+        "125999384883379",
+        "129821941379125",
+        "137722811369530",
+        "138559440371222",
+        "86766709825347"
+      ]
+    }
+  },
+  "hairColor": {
+    "naturalChance": 0.95,
+    "dyeChance": 0.05,
+    "dyeColors": [
+      "Blue",
+      "Red",
+      "Teal",
+      "Purple",
+      "Green",
+      "Pink",
+      "White"
+    ],
+    "whiteChance": 0.000005,
+    "note": "Hair color is drawn from a natural pool tied to your ethnicity 95% of the time (e.g. Japanese pulls mostly black; European draws brown/blonde/auburn). The other 5% triggers a 'hair dye' event with a deliberately artificial color from outside that pool."
+  }
+}

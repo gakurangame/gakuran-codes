@@ -1,11 +1,11 @@
 # Gakuran Codes — Verified Working (Roblox)
 
-Machine-readable, hand-verified data for the Roblox game **[(学乱) Gakuran](https://www.roblox.com/games/128736949265057/Gakuran)**: redeem codes, fighting styles, rarity drop rates, roll odds, and official links.
+Machine-readable, hand-verified data for the Roblox game **[(学乱) Gakuran](https://www.roblox.com/games/128736949265057/Gakuran)**: redeem codes, fighting styles, rarity drop rates, roll odds, accessories, faces, the name system, and official links.
 
 Every code below is **verified by actually redeeming it in-game** before it's marked active — not scraped from other lists. Data is maintained by [gakurantools.com](https://gakurantools.com) and refreshed whenever the developers ship a new code.
 
 <!-- last-verified:start -->
-**Last verified: 2026-07-12**
+**Last verified: 2026-07-13**
 <!-- last-verified:end -->
 
 ## Active Gakuran codes
@@ -48,12 +48,15 @@ All datasets are plain JSON under [`data/`](./data), licensed [CC BY 4.0](./LICE
 | Redeem codes | [`codes.json`](./data/codes.json) | `https://raw.githubusercontent.com/gakurangame/gakuran-codes/main/data/codes.json` |
 | Fighting styles + perks | [`fighting-styles.json`](./data/fighting-styles.json) | `https://raw.githubusercontent.com/gakurangame/gakuran-codes/main/data/fighting-styles.json` |
 | Roll rates | [`roll-rates.json`](./data/roll-rates.json) | `https://raw.githubusercontent.com/gakurangame/gakuran-codes/main/data/roll-rates.json` |
+| Accessories (with Roblox IDs) | [`accessories.json`](./data/accessories.json) | `https://raw.githubusercontent.com/gakurangame/gakuran-codes/main/data/accessories.json` |
+| Faces + hair colors | [`faces.json`](./data/faces.json) | `https://raw.githubusercontent.com/gakurangame/gakuran-codes/main/data/faces.json` |
+| Name system | [`names.json`](./data/names.json) | `https://raw.githubusercontent.com/gakurangame/gakuran-codes/main/data/names.json` |
 | Game facts (place/universe IDs) | [`game.json`](./data/game.json) | `https://raw.githubusercontent.com/gakurangame/gakuran-codes/main/data/game.json` |
 | Official links | [`official-links.json`](./data/official-links.json) | `https://raw.githubusercontent.com/gakurangame/gakuran-codes/main/data/official-links.json` |
 
 ## Fighting styles & drop rates
 
-Official rarity-tier drop rates: **Legendary 1% · Epic 10% · Uncommon 30% · Common 59%**. The developers have not published per-style odds within a tier, so this dataset never invents them.
+Official rarity-tier drop rates: **Legendary 1% · Epic 10% · Uncommon 30% · Common 59%**. The developers have not published per-style odds within a tier, so this dataset never invents them. [`fighting-styles.json`](./data/fighting-styles.json) also carries each style's **full perk list** and the developers' **official recommended-height range**, as published on the Trello cards.
 
 | Style | Rarity | Heavy-attack perk |
 |-------|--------|-------------------|
@@ -72,7 +75,14 @@ Want to know how many rolls you need for a Legendary? Try the **[Gakuran roll ca
 ## Roll rates
 
 - Rolls cost **2 Robux** each (rerolls from codes are free).
-- Only rarity-tier rates are official. Per-height and per-race odds are unpublished — [`roll-rates.json`](./data/roll-rates.json) keeps them `null` instead of guessing, and records the confirmed qualitative height correlations (African/European lean taller, Indian least) as notes.
+- Ethnicity odds are now official: **Japanese 95%**, the other five (European, African, Middle Eastern, Latino/Latina, Indian) **1% each**.
+- Per-style odds within a rarity tier and exact height odds remain unpublished — [`roll-rates.json`](./data/roll-rates.json) keeps them `null` instead of guessing. The developers' official per-ethnicity **average heights** (European tallest at 178/165 cm, Indian shortest at 167/155 cm) and the height gameplay effects are included as published.
+
+## Accessories, faces & names
+
+- [`accessories.json`](./data/accessories.json) — all **68 accessories** (male 30 / female 38) across the Head, Face, Neck, Arm, and Waist slots, each with its Roblox catalog asset id verbatim from the official Trello cards. No per-item odds are published, so none are invented.
+- [`faces.json`](./data/faces.json) — the **1% Mogger face** (5 male variants + 1 female) vs the 99% normal pools (12 male / 15 female faces, mostly published as Roblox asset ids), plus hair-color mechanics (95% natural pool by ethnicity, 5% dye event).
+- [`names.json`](./data/names.json) — last-name pool sizes per ethnicity (**4,428 rollable last names** in total) and nameplate year colors. First names are player-chosen; the actual name lists are not published by the developers, so none are included.
 
 ## How this data is verified
 

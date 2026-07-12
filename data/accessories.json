@@ -1,0 +1,307 @@
+{
+  "dataset": "gakuran-accessories",
+  "description": "Accessories in the Roblox game (学乱) Gakuran: the male and female pools for each slot (Head, Face, Neck, Arm, Waist), with names and Roblox catalog asset ids verbatim from the official Trello cards. Accessories are rolled with the rest of the character; the developers publish no per-item odds, so none are invented. Note: the official female Head card lists the same id for Headphones #3 and #4 — kept verbatim rather than silently corrected.",
+  "game": "(学乱) Gakuran",
+  "platform": "Roblox",
+  "license": "CC-BY-4.0",
+  "source": "https://gakurantools.com/guides/faces",
+  "lastVerified": "2026-07-13",
+  "accessories": {
+    "male": {
+      "Head": [
+        {
+          "name": "Headphones #1",
+          "id": "16266745532"
+        },
+        {
+          "name": "Headphones #2",
+          "id": "15219417695"
+        },
+        {
+          "name": "Headphones #3",
+          "id": "14191771395"
+        },
+        {
+          "name": "Headphones #4",
+          "id": "105141744022250"
+        },
+        {
+          "name": "White Eyepatch",
+          "id": "4301204617"
+        }
+      ],
+      "Face": [
+        {
+          "name": "Facial Piercings",
+          "id": "131767331584460"
+        },
+        {
+          "name": "Nose Piercing",
+          "id": "18219058403"
+        },
+        {
+          "name": "Band-Aid #1",
+          "id": "103454221630662"
+        },
+        {
+          "name": "Band-Aid #2",
+          "id": "17331409517"
+        },
+        {
+          "name": "Glasses #1",
+          "id": "6934218095"
+        },
+        {
+          "name": "Glasses #2",
+          "id": "5066678986"
+        },
+        {
+          "name": "Glasses #3",
+          "id": "15328412867"
+        },
+        {
+          "name": "Glasses #4",
+          "id": "137691749683565"
+        },
+        {
+          "name": "White Bandage",
+          "id": "4660621665"
+        },
+        {
+          "name": "Blue Mask",
+          "id": "95939543000417"
+        }
+      ],
+      "Neck": [
+        {
+          "name": "Scarf #1",
+          "id": "133505844112284"
+        },
+        {
+          "name": "Scarf #2",
+          "id": "117237629732185"
+        },
+        {
+          "name": "Scarf #3",
+          "id": "120676081618718"
+        },
+        {
+          "name": "Necklace #1",
+          "id": "126254100563662"
+        },
+        {
+          "name": "Necklace #2",
+          "id": "123378729353618"
+        },
+        {
+          "name": "Necklace #3",
+          "id": "80557136567650"
+        },
+        {
+          "name": "Necklace #4",
+          "id": "11103285424"
+        },
+        {
+          "name": "Necklace #5",
+          "id": "84610099159441"
+        }
+      ],
+      "Arm": [
+        {
+          "name": "Bracelet #1",
+          "id": "100846117069388"
+        },
+        {
+          "name": "Bracelet #2",
+          "id": "76021300489646"
+        },
+        {
+          "name": "Bracelet #3",
+          "id": "104132193846609"
+        },
+        {
+          "name": "Watch #1",
+          "id": "106438116586687"
+        },
+        {
+          "name": "Watch #2",
+          "id": "112712185188401"
+        }
+      ],
+      "Waist": [
+        {
+          "name": "Side Chain",
+          "id": "15874147588"
+        },
+        {
+          "name": "Key Chain",
+          "id": "75829867002230"
+        }
+      ]
+    },
+    "female": {
+      "Head": [
+        {
+          "name": "Headphones #1",
+          "id": "105141744022250"
+        },
+        {
+          "name": "Headphones #2",
+          "id": "14191771395"
+        },
+        {
+          "name": "Headphones #3",
+          "id": "15219417695"
+        },
+        {
+          "name": "Headphones #4",
+          "id": "15219417695"
+        },
+        {
+          "name": "Earmuffs",
+          "id": "126195239685808"
+        },
+        {
+          "name": "Hairpin",
+          "id": "113953022554280"
+        },
+        {
+          "name": "Hairpin #2",
+          "id": "134062093834439"
+        },
+        {
+          "name": "Flowers",
+          "id": "11286455681955"
+        },
+        {
+          "name": "Headband #1",
+          "id": "112115821300384"
+        },
+        {
+          "name": "Headband #2",
+          "id": "13147318722"
+        },
+        {
+          "name": "White Eyepatch",
+          "id": "4301204617"
+        }
+      ],
+      "Face": [
+        {
+          "name": "Facial Piercings",
+          "id": "131767331584460"
+        },
+        {
+          "name": "Nose Piercing",
+          "id": "18219058403"
+        },
+        {
+          "name": "Band-Aid #1",
+          "id": "103454221630662"
+        },
+        {
+          "name": "Band-Aid #2",
+          "id": "17331409517"
+        },
+        {
+          "name": "Glasses #1",
+          "id": "6934218095"
+        },
+        {
+          "name": "Glasses #2",
+          "id": "5066678986"
+        },
+        {
+          "name": "Glasses #3",
+          "id": "15328412867"
+        },
+        {
+          "name": "Glasses #4",
+          "id": "137691749683565"
+        },
+        {
+          "name": "White Bandage",
+          "id": "4660621665"
+        },
+        {
+          "name": "Blue Mask",
+          "id": "95939543000417"
+        }
+      ],
+      "Neck": [
+        {
+          "name": "Necklace #1",
+          "id": "84610099159441"
+        },
+        {
+          "name": "Necklace #2",
+          "id": "126254100563662"
+        },
+        {
+          "name": "Necklace #3",
+          "id": "11103285424"
+        },
+        {
+          "name": "Necklace #4",
+          "id": "80557136567650"
+        },
+        {
+          "name": "Necklace #5",
+          "id": "123378729353618"
+        },
+        {
+          "name": "Scarf #1",
+          "id": "117237629732185"
+        },
+        {
+          "name": "Scarf #2",
+          "id": "133505844112284"
+        },
+        {
+          "name": "Scarf #3",
+          "id": "134805880331580"
+        },
+        {
+          "name": "Scarf #4",
+          "id": "16467577188"
+        },
+        {
+          "name": "Scarf #5",
+          "id": "120676081618718"
+        }
+      ],
+      "Arm": [
+        {
+          "name": "Watch #1",
+          "id": "112712185188401"
+        },
+        {
+          "name": "Watch #2",
+          "id": "106428116586687"
+        },
+        {
+          "name": "Bracelet #1",
+          "id": "76021300489646"
+        },
+        {
+          "name": "Bracelet #2",
+          "id": "100846117069388"
+        },
+        {
+          "name": "Bracelet #3",
+          "id": "104132193846609"
+        },
+        {
+          "name": "Bracelet #4",
+          "id": "83172718394717"
+        }
+      ],
+      "Waist": [
+        {
+          "name": "Key Chain",
+          "id": "13642445352"
+        }
+      ]
+    }
+  }
+}

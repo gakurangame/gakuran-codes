@@ -1,11 +1,11 @@
 {
   "dataset": "gakuran-fighting-styles",
-  "description": "Fighting styles in the Roblox game (学乱) Gakuran, with rarity tier, official tier drop rates, and heavy-attack perks. Drop rates are the rarity tier's combined rate — the developers have not published a per-style split within a tier, so none is invented here.",
+  "description": "Fighting styles in the Roblox game (学乱) Gakuran, with rarity tier, official tier drop rates, the full perk list, and the developers' official recommended-height range per style. Drop rates are the rarity tier's combined rate — the developers have not published a per-style split within a tier, so none is invented here.",
   "game": "(学乱) Gakuran",
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/fighting-styles",
-  "lastVerified": "2026-07-12",
+  "lastVerified": "2026-07-13",
   "rarityRates": {
     "Legendary": 0.01,
     "Epic": 0.1,
@@ -18,9 +18,17 @@
       "name": "Kure",
       "rarity": "Legendary",
       "tierDropRate": 0.01,
-      "heightFit": "any",
-      "heavyEffect": "Last Stand: +15% total damage at ≤25% HP",
-      "lastVerified": "2026-07-12"
+      "heightFit": "tall",
+      "recommendedHeight": "Medium–tall, around 5'9\" / 175 cm or taller (shorter builds stay viable)",
+      "perks": [
+        "Last Stand: +15% total damage while at 25% HP or less",
+        "Takedown: M2 headbutt grabs the opponent, disorienting them and dealing 1.5× damage",
+        "Concussive: a successful M2 slam removes the victim's ability to parry for 2 seconds",
+        "Guard Pierce II: 15% block chip damage",
+        "Resilience I: 15% chance to clash into a grapple"
+      ],
+      "heavyEffect": "Takedown: M2 headbutt grab disorients for 1.5× damage",
+      "lastVerified": "2026-07-13"
     },
     {
       "slug": "capoeira",
@@ -28,8 +36,15 @@
       "rarity": "Legendary",
       "tierDropRate": 0.01,
       "heightFit": "tall",
+      "recommendedHeight": "Tall, around 6'0\" / 183 cm or taller",
+      "perks": [
+        "Powerful: M2 hits knock the opponent down (ragdoll)",
+        "Heavy Hitter I: +5% damage on guardbreak hits (M1 & M2)",
+        "Guard Pierce II: 15% block chip damage",
+        "Ginga: dash cooldown reduced by 25%"
+      ],
       "heavyEffect": "Ginga: 25% shorter dash cooldown; M2 knockdown",
-      "lastVerified": "2026-07-12"
+      "lastVerified": "2026-07-13"
     },
     {
       "slug": "wrestling",
@@ -37,62 +52,105 @@
       "rarity": "Legendary",
       "tierDropRate": 0.01,
       "heightFit": "tall",
+      "recommendedHeight": "Tall, around 6'0\" / 183 cm or taller",
+      "perks": [
+        "Takedown: M2 grab throw for 1.5× damage",
+        "Hyperarmor M2s: heavy swings cannot be interrupted or stunned",
+        "Heavy Hitter III (MAX): +15% damage on guardbreak hits",
+        "Guard Pierce II: 15% block chip damage",
+        "Resilience V (MAX): 55% chance to clash into a grapple"
+      ],
       "heavyEffect": "Takedown: M2 grab throw for 1.5× damage, with hyperarmor",
-      "lastVerified": "2026-07-12"
+      "lastVerified": "2026-07-13"
     },
     {
       "slug": "hakari",
       "name": "Hakari",
       "rarity": "Epic",
       "tierDropRate": 0.1,
-      "heightFit": "any",
+      "heightFit": "tall",
+      "recommendedHeight": "Tall, around 6'0\" / 183 cm or taller (slower style; suits ranged, patient play)",
+      "perks": [
+        "Powerful: M2 hits knock the opponent down (ragdoll)",
+        "Momentum Rush: landing a full uninterrupted M1 combo opens a 7-second window where M2 deals 3× damage",
+        "Guard Pierce II: 15% block chip damage"
+      ],
       "heavyEffect": "Momentum Rush: M2 deals 3× damage after a full M1 combo",
-      "lastVerified": "2026-07-12"
+      "lastVerified": "2026-07-13"
     },
     {
       "slug": "boxing",
       "name": "Boxing",
       "rarity": "Epic",
       "tierDropRate": 0.1,
-      "heightFit": "any",
+      "heightFit": "short",
+      "recommendedHeight": "Short, around 5'1\" / 155 cm or less (fastest M1s in the game)",
+      "perks": [
+        "Untouchable: M2 is a unique 2-hit combo with invincibility frames through the animation; each punch is a separate attack",
+        "Perfect Reflex: a perfect block shortens M2 cooldown by 1 second",
+        "Guard Pierce III: 20% block chip damage on M1s; each blocked M2 punch drains 75% posture instead of guardbreaking"
+      ],
       "heavyEffect": "Untouchable: M2 is a double hit with i-frames",
-      "lastVerified": "2026-07-12"
+      "lastVerified": "2026-07-13"
     },
     {
       "slug": "muay-thai",
       "name": "Muay Thai",
       "rarity": "Uncommon",
       "tierDropRate": 0.3,
-      "heightFit": "any",
+      "heightFit": "short",
+      "recommendedHeight": "Short–medium, around 5'3\" / 160 cm or less",
+      "perks": [
+        "Powerful: M2 hits knock the opponent down (ragdoll)",
+        "Crushing Force II: +15% posture damage on every hit",
+        "Guard Pierce V (MAX): 30% block chip damage",
+        "Resilience V (MAX): 55% chance to clash into a grapple"
+      ],
       "heavyEffect": "Guard Pierce V + Resilience V: 30% chip, 55% grapple",
-      "lastVerified": "2026-07-12"
+      "lastVerified": "2026-07-13"
     },
     {
       "slug": "slugger",
       "name": "Slugger",
       "rarity": "Uncommon",
       "tierDropRate": 0.3,
-      "heightFit": "any",
+      "heightFit": "tall",
+      "recommendedHeight": "Medium–tall, around 5'10\" / 177 cm or more (extra HP offsets Unstable's added damage taken)",
+      "perks": [
+        "Unstable: +30% damage dealt but +10% damage taken",
+        "Guard Pierce V (MAX): 30% block chip damage",
+        "Resilience III: 35% chance to clash into a grapple"
+      ],
       "heavyEffect": "Unstable: +30% damage dealt but +10% damage taken",
-      "lastVerified": "2026-07-12"
+      "lastVerified": "2026-07-13"
     },
     {
       "slug": "karate",
       "name": "Karate",
       "rarity": "Uncommon",
       "tierDropRate": 0.3,
-      "heightFit": "any",
+      "heightFit": "medium",
+      "recommendedHeight": "Medium, around 5'7\" / 170 cm",
+      "perks": [
+        "Powerful: M2 hits knock the opponent down (ragdoll)",
+        "Steady Nerves: +15% posture regeneration for 3 seconds after a perfect block",
+        "Balanced Strike: landing an M2 refunds 25% of its posture cost",
+        "Guard Pierce II: 15% block chip damage",
+        "Resilience II: 25% chance to clash into a grapple"
+      ],
       "heavyEffect": "Balanced Strike: M2 refunds 25% posture",
-      "lastVerified": "2026-07-12"
+      "lastVerified": "2026-07-13"
     },
     {
       "slug": "basic",
       "name": "Basic",
       "rarity": "Common",
       "tierDropRate": 0.59,
-      "heightFit": "any",
+      "heightFit": "short",
+      "recommendedHeight": "Short–medium, around 5'3\" / 160 cm or less",
+      "perks": [],
       "heavyEffect": "Starter style, no signature perk",
-      "lastVerified": "2026-07-12"
+      "lastVerified": "2026-07-13"
     }
   ]
 }

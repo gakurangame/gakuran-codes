@@ -1,0 +1,56 @@
+{
+  "dataset": "gakuran-names",
+  "description": "Name-system data in the Roblox game (学乱) Gakuran, from the official Trello 'First/Last Names' and 'Nameplates (Year Colors)' cards: last-name pool sizes per ethnicity and nameplate year colors. First names are player-chosen; last names are assigned from your ethnicity's pool. The developers do not publish the name lists themselves, so no names are included.",
+  "game": "(学乱) Gakuran",
+  "platform": "Roblox",
+  "license": "CC-BY-4.0",
+  "source": "https://gakurantools.com/guides/names",
+  "lastVerified": "2026-07-13",
+  "lastNameTotal": 4428,
+  "lastNameCounts": [
+    {
+      "slug": "european",
+      "name": "European",
+      "count": 838
+    },
+    {
+      "slug": "latinx",
+      "name": "Latino/Latina",
+      "count": 795
+    },
+    {
+      "slug": "middle-eastern",
+      "name": "Middle Eastern",
+      "count": 769
+    },
+    {
+      "slug": "indian",
+      "name": "Indian",
+      "count": 755
+    },
+    {
+      "slug": "african",
+      "name": "African",
+      "count": 712
+    },
+    {
+      "slug": "japanese",
+      "name": "Japanese",
+      "count": 559
+    }
+  ],
+  "nameplateYearColors": [
+    {
+      "year": "First Year",
+      "color": "Blue"
+    },
+    {
+      "year": "Second Year",
+      "color": "Purple"
+    },
+    {
+      "year": "Third Year",
+      "color": "Yellow"
+    }
+  ]
+}
