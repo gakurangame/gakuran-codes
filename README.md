@@ -5,7 +5,7 @@ Machine-readable, hand-verified data for the Roblox game **[(学乱) Gakuran](ht
 Every code below is **verified by actually redeeming it in-game** before it's marked active — not scraped from other lists. Data is maintained by [gakurantools.com](https://gakurantools.com) and refreshed whenever the developers ship a new code.
 
 <!-- last-verified:start -->
-**Last verified: 2026-07-13**
+**Last verified: 2026-07-17**
 <!-- last-verified:end -->
 
 ## Active Gakuran codes
@@ -14,7 +14,8 @@ Every code below is **verified by actually redeeming it in-game** before it's ma
 | Code | Reward | Released | Status |
 |------|--------|----------|--------|
 | `MAPUPDATE` | 25 free rerolls | — | ✅ Active |
-| `SECRET` | Free rerolls (amount unconfirmed) | — | ✅ Active |
+| `LARPSIMULATOR` | 25 free rerolls | — | ✅ Active |
+| `UMA` | 10 free rerolls | — | ✅ Active |
 <!-- active-codes:end -->
 
 ### Expired codes
@@ -22,6 +23,10 @@ Every code below is **verified by actually redeeming it in-game** before it's ma
 <!-- expired-codes:start -->
 | Code | Reward | Status |
 |------|--------|--------|
+| `SON` | 5 free rerolls | ❌ Expired |
+| `SECRET` | Free rerolls (amount unconfirmed) | ❌ Expired |
+| `SECRET2` | Free rerolls (amount unconfirmed) | ❌ Expired |
+| `XAYSEYES` | Free rerolls (amount unconfirmed) | ❌ Expired |
 | `FIXES3` | 15 free rerolls | ❌ Expired |
 | `2MIL` | 15 free rerolls | ❌ Expired |
 | `FIXES2` | 5 free rerolls | ❌ Expired |

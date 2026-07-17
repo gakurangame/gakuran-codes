@@ -5,7 +5,7 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/guides/faces",
-  "lastVerified": "2026-07-13",
+  "lastVerified": "2026-07-17",
   "faceRoll": {
     "moggerChance": 0.01,
     "normalChance": 0.99
@@ -77,6 +77,7 @@
       "Pink",
       "White"
     ],
+    "pinkChance": 0.00005,
     "whiteChance": 0.000005,
     "note": "Hair color is drawn from a natural pool tied to your ethnicity 95% of the time (e.g. Japanese pulls mostly black; European draws brown/blonde/auburn). The other 5% triggers a 'hair dye' event with a deliberately artificial color from outside that pool."
   }
