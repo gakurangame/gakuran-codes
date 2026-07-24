@@ -5,90 +5,102 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/codes",
-  "lastVerified": "2026-07-17",
+  "lastVerified": "2026-07-24",
   "codes": [
+    {
+      "code": "MUSICFIXESNOPTIMIZATION",
+      "reward": "Free rerolls (amount unconfirmed)",
+      "status": "active",
+      "lastVerified": "2026-07-24"
+    },
+    {
+      "code": "CHESS",
+      "reward": "Free rerolls (amount unconfirmed)",
+      "status": "expired",
+      "lastVerified": "2026-07-24"
+    },
     {
       "code": "MAPUPDATE",
       "reward": "25 free rerolls",
-      "status": "active",
-      "lastVerified": "2026-07-17"
+      "status": "expired",
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "LARPSIMULATOR",
       "reward": "25 free rerolls",
-      "status": "active",
-      "lastVerified": "2026-07-17"
+      "status": "expired",
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "UMA",
       "reward": "10 free rerolls",
-      "status": "active",
-      "lastVerified": "2026-07-17"
+      "status": "expired",
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "SON",
       "reward": "5 free rerolls",
       "status": "expired",
-      "lastVerified": "2026-07-17"
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "SECRET",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "expired",
-      "lastVerified": "2026-07-17"
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "SECRET2",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "expired",
-      "lastVerified": "2026-07-17"
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "XAYSEYES",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "expired",
-      "lastVerified": "2026-07-17"
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "FIXES3",
       "reward": "15 free rerolls",
       "status": "expired",
       "released": "2026-07-09",
-      "lastVerified": "2026-07-17"
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "2MIL",
       "reward": "15 free rerolls",
       "status": "expired",
       "released": "2026-07-08",
-      "lastVerified": "2026-07-17"
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "FIXES2",
       "reward": "5 free rerolls",
       "status": "expired",
       "released": "2026-07-08",
-      "lastVerified": "2026-07-17"
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "FIXES",
       "reward": "10 free rerolls",
       "status": "expired",
       "released": "2026-07-08",
-      "lastVerified": "2026-07-17"
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "15REROLLS",
       "reward": "15 free rerolls",
       "status": "expired",
       "released": "2026-07-05",
-      "lastVerified": "2026-07-17"
+      "lastVerified": "2026-07-24"
     },
     {
       "code": "GAKURAN",
       "reward": "Launch code",
       "status": "expired",
-      "lastVerified": "2026-07-17"
+      "lastVerified": "2026-07-24"
     }
   ]
 }
