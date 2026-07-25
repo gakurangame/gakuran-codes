@@ -5,38 +5,38 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/guides/names",
-  "lastVerified": "2026-07-17",
-  "lastNameTotal": 4428,
+  "lastVerified": "2026-07-25",
+  "lastNameTotal": 6064,
   "lastNameCounts": [
     {
       "slug": "european",
       "name": "European",
-      "count": 838
-    },
-    {
-      "slug": "latinx",
-      "name": "Latino/Latina",
-      "count": 795
-    },
-    {
-      "slug": "middle-eastern",
-      "name": "Middle Eastern",
-      "count": 769
-    },
-    {
-      "slug": "indian",
-      "name": "Indian",
-      "count": 755
-    },
-    {
-      "slug": "african",
-      "name": "African",
-      "count": 712
+      "count": 1450
     },
     {
       "slug": "japanese",
       "name": "Japanese",
-      "count": 559
+      "count": 1040
+    },
+    {
+      "slug": "latinx",
+      "name": "Latino/Latina",
+      "count": 947
+    },
+    {
+      "slug": "middle-eastern",
+      "name": "Middle Eastern",
+      "count": 923
+    },
+    {
+      "slug": "indian",
+      "name": "Indian",
+      "count": 879
+    },
+    {
+      "slug": "african",
+      "name": "African",
+      "count": 825
     }
   ],
   "nameplateYearColors": [
