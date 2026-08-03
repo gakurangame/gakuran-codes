@@ -5,7 +5,7 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/guides/faces",
-  "lastVerified": "2026-07-24",
+  "lastVerified": "2026-08-03",
   "faceTiers": [
     {
       "key": "regular",
@@ -45,7 +45,7 @@
       "maleChance": 0.02,
       "femaleChance": 0.02,
       "maleVariants": 2,
-      "femaleVariants": 2
+      "femaleVariants": 5
     },
     {
       "key": "mogger",
@@ -59,9 +59,9 @@
       "key": "secret",
       "label": "Secret Face",
       "maleChance": 0.001,
-      "femaleChance": 0,
-      "maleVariants": 1,
-      "femaleVariants": 0
+      "femaleChance": 0.001,
+      "maleVariants": 5,
+      "femaleVariants": 6
     },
     {
       "key": "unknown",

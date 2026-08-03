@@ -5,14 +5,26 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/fighting-styles",
-  "lastVerified": "2026-07-13",
+  "lastVerified": "2026-08-03",
   "rarityRates": {
+    "???": 0.00075,
     "Legendary": 0.01,
     "Epic": 0.1,
     "Uncommon": 0.3,
     "Common": 0.59
   },
   "styles": [
+    {
+      "slug": "ali",
+      "name": "Ali",
+      "rarity": "???",
+      "tierDropRate": 0.00075,
+      "heightFit": "any",
+      "recommendedHeight": "Not yet published — the official card says the recommended build \"will be added when the meta begins to surface\".",
+      "perks": [],
+      "heavyEffect": "Shown only as a clip on the official card — no text description published yet.",
+      "lastVerified": "2026-08-03"
+    },
     {
       "slug": "kure",
       "name": "Kure",
@@ -66,17 +78,13 @@
     {
       "slug": "hakari",
       "name": "Hakari",
-      "rarity": "Epic",
-      "tierDropRate": 0.1,
+      "rarity": "Legendary",
+      "tierDropRate": 0.01,
       "heightFit": "tall",
-      "recommendedHeight": "Tall, around 6'0\" / 183 cm or taller (slower style; suits ranged, patient play)",
-      "perks": [
-        "Powerful: M2 hits knock the opponent down (ragdoll)",
-        "Momentum Rush: landing a full uninterrupted M1 combo opens a 7-second window where M2 deals 3× damage",
-        "Guard Pierce II: 15% block chip damage"
-      ],
-      "heavyEffect": "Momentum Rush: M2 deals 3× damage after a full M1 combo",
-      "lastVerified": "2026-07-13"
+      "recommendedHeight": "Tall, around 6'0\" / 183 cm or taller (takes advantage of the reach from kicks; slower, patient playstyle)",
+      "perks": [],
+      "heavyEffect": "Black Flash: available after 3 M1 hits, then press R (a signature Hakari mechanic)",
+      "lastVerified": "2026-08-03"
     },
     {
       "slug": "boxing",
