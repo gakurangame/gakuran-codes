@@ -5,7 +5,7 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/guides/faces",
-  "lastVerified": "2026-08-03",
+  "lastVerified": "2026-08-08",
   "faceTiers": [
     {
       "key": "regular",
@@ -13,7 +13,7 @@
       "maleChance": 0.62,
       "femaleChance": 0.57,
       "maleVariants": 16,
-      "femaleVariants": 18
+      "femaleVariants": 19
     },
     {
       "key": "rare",
@@ -29,7 +29,7 @@
       "maleChance": 0.1,
       "femaleChance": 0.1,
       "maleVariants": 1,
-      "femaleVariants": 3
+      "femaleVariants": 2
     },
     {
       "key": "gyaru",
@@ -37,14 +37,14 @@
       "maleChance": 0,
       "femaleChance": 0.05,
       "maleVariants": 0,
-      "femaleVariants": 2
+      "femaleVariants": 1
     },
     {
       "key": "neko",
       "label": "Neko",
       "maleChance": 0.02,
       "femaleChance": 0.02,
-      "maleVariants": 2,
+      "maleVariants": 5,
       "femaleVariants": 5
     },
     {
@@ -53,15 +53,23 @@
       "maleChance": 0.01,
       "femaleChance": 0.01,
       "maleVariants": 9,
-      "femaleVariants": 9
+      "femaleVariants": 10
+    },
+    {
+      "key": "legendary",
+      "label": "Legendary",
+      "maleChance": 0,
+      "femaleChance": 0.01,
+      "maleVariants": 0,
+      "femaleVariants": 1
     },
     {
       "key": "secret",
       "label": "Secret Face",
       "maleChance": 0.001,
       "femaleChance": 0.001,
-      "maleVariants": 5,
-      "femaleVariants": 6
+      "maleVariants": 4,
+      "femaleVariants": 8
     },
     {
       "key": "unknown",
@@ -93,13 +101,17 @@
       "Black Eyed Mogger",
       "Brown Eyed Mogger",
       "Heterochromia Mogger",
-      "Original Mogger"
+      "Original Mogger",
+      "Original Gyaru"
     ]
   },
   "nekoVariants": {
     "male": [
       "Green Eyed Neko",
-      "Blue Eyed Neko"
+      "Blue Eyed Neko",
+      "Scarred Neko",
+      "Catboy Neko",
+      "Tomoe"
     ],
     "female": [
       "Green Eyed Neko",
@@ -108,8 +120,7 @@
   },
   "gyaruVariants": {
     "female": [
-      "Gyaru",
-      "Gyaru (variant 2)"
+      "Gyaru"
     ]
   },
   "hairColor": {

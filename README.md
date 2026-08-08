@@ -5,7 +5,7 @@ Machine-readable, hand-verified data for the Roblox game **[(学乱) Gakuran](ht
 Every code below is **verified by actually redeeming it in-game** before it's marked active — not scraped from other lists. Data is maintained by [gakurantools.com](https://gakurantools.com) and refreshed whenever the developers ship a new code.
 
 <!-- last-verified:start -->
-**Last verified: 2026-08-03**
+**Last verified: 2026-08-08**
 <!-- last-verified:end -->
 
 ## Active Gakuran codes

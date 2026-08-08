@@ -5,7 +5,7 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/fighting-styles",
-  "lastVerified": "2026-08-03",
+  "lastVerified": "2026-08-08",
   "rarityRates": {
     "???": 0.00075,
     "Legendary": 0.01,
@@ -19,11 +19,17 @@
       "name": "Ali",
       "rarity": "???",
       "tierDropRate": 0.00075,
-      "heightFit": "any",
-      "recommendedHeight": "Not yet published — the official card says the recommended build \"will be added when the meta begins to surface\".",
-      "perks": [],
-      "heavyEffect": "Shown only as a clip on the official card — no text description published yet.",
-      "lastVerified": "2026-08-03"
+      "heightFit": "short",
+      "recommendedHeight": "Short, around 4'11\"–5'3\" (tall stays viable for reach; medium builds are explicitly not recommended)",
+      "perks": [
+        "Counterstrike: +5% damage on your next attack after a successful parry",
+        "Float Like a Butterfly: I-frames that let you move in and land your critical attack",
+        "Sting Like a Bee: dodge an opponent's attack with your evasive to open up your own",
+        "Guard Pierce III: 20% block chip damage",
+        "Resilience II: 25% chance to clash into a grapple when attacks meet"
+      ],
+      "heavyEffect": "Two heavies: Left Hand Heavy on R, Right Hand Heavy on D or S + R, which ragdolls",
+      "lastVerified": "2026-08-08"
     },
     {
       "slug": "kure",
@@ -83,8 +89,8 @@
       "heightFit": "tall",
       "recommendedHeight": "Tall, around 6'0\" / 183 cm or taller (takes advantage of the reach from kicks; slower, patient playstyle)",
       "perks": [],
-      "heavyEffect": "Black Flash: available after 3 M1 hits, then press R (a signature Hakari mechanic)",
-      "lastVerified": "2026-08-03"
+      "heavyEffect": "Black Flash: available after an M1 string, then press R (a signature Hakari mechanic)",
+      "lastVerified": "2026-08-08"
     },
     {
       "slug": "boxing",
