@@ -2,10 +2,10 @@
 
 Machine-readable, hand-verified data for the Roblox game **[(学乱) Gakuran](https://www.roblox.com/games/128736949265057/Gakuran)**: redeem codes, fighting styles, rarity drop rates, roll odds, accessories, faces, the name system, and official links.
 
-Every code below is **verified by actually redeeming it in-game** before it's marked active — not scraped from other lists. Data is maintained by [gakurantools.com](https://gakurantools.com) and refreshed whenever the developers ship a new code.
+Every code below is **checked against the developers' own Trello board and Discord announcements** before it's marked active — not scraped from other code lists. Where the developers never published a reward amount, it says so instead of repeating a number from elsewhere. Data is maintained by [gakurantools.com](https://gakurantools.com) and refreshed whenever the developers ship a new code.
 
 <!-- last-verified:start -->
-**Last verified: 2026-08-08**
+**Last verified: 2026-08-14**
 <!-- last-verified:end -->
 
 ## Active Gakuran codes
@@ -13,7 +13,9 @@ Every code below is **verified by actually redeeming it in-game** before it's ma
 <!-- active-codes:start -->
 | Code | Reward | Released | Status |
 |------|--------|----------|--------|
-| `ALI` | Free rerolls (amount unconfirmed) | 2026-08-01 | ✅ Active |
+| `SKATERBOY` | Free rerolls (amount unconfirmed) | — | ✅ Active |
+| `WINGCHAN` | Free rerolls (amount unconfirmed) | — | ✅ Active |
+| `WHY` | Free rerolls (amount unconfirmed) | — | ✅ Active |
 <!-- active-codes:end -->
 
 ### Expired codes
@@ -21,6 +23,8 @@ Every code below is **verified by actually redeeming it in-game** before it's ma
 <!-- expired-codes:start -->
 | Code | Reward | Status |
 |------|--------|--------|
+| `ALI` | Free rerolls (amount unconfirmed) | ❌ Expired |
+| `J*BS` | Never published — the board masked the spelling | ❌ Expired |
 | `THECODEIS` | Free rerolls (amount unconfirmed) | ❌ Expired |
 | `QUICKPATCH` | Free rerolls (amount unconfirmed) | ❌ Expired |
 | `MUSICFIXESNOPTIMIZATION` | Free rerolls (amount unconfirmed) | ❌ Expired |

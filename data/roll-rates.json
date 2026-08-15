@@ -5,7 +5,7 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/roll-calculator",
-  "lastVerified": "2026-08-08",
+  "lastVerified": "2026-08-14",
   "robuxPerRoll": 2,
   "rarityRates": {
     "???": 0.00075,
@@ -128,12 +128,14 @@
       "More health and damage",
       "Larger hitboxes",
       "Slower movement and attacks",
+      "Longer heavy cooldowns",
       "Shorter dashes"
     ],
     "shorter": [
       "Less health and damage",
       "Smaller hitboxes",
       "Faster movement, attacks, and cooldowns",
+      "Shorter heavy cooldowns",
       "Longer dashes"
     ]
   }

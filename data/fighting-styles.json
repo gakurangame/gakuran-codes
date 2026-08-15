@@ -5,7 +5,7 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/fighting-styles",
-  "lastVerified": "2026-08-08",
+  "lastVerified": "2026-08-14",
   "rarityRates": {
     "???": 0.00075,
     "Legendary": 0.01,
@@ -29,7 +29,18 @@
         "Resilience II: 25% chance to clash into a grapple when attacks meet"
       ],
       "heavyEffect": "Two heavies: Left Hand Heavy on R, Right Hand Heavy on D or S + R, which ragdolls",
-      "lastVerified": "2026-08-08"
+      "lastVerified": "2026-08-14"
+    },
+    {
+      "slug": "wing-chun",
+      "name": "Wing Chun",
+      "rarity": "???",
+      "tierDropRate": 0.00075,
+      "heightFit": "tall",
+      "recommendedHeight": "Tall, 6'0\"–6'11\" (short 4'11\"–5'3\" is the viable alternative; medium builds are explicitly not recommended)",
+      "perks": [],
+      "heavyEffect": "Counter: the heavy is a true counter — you glow orange and hit back automatically when struck, but whiff it and you are left vulnerable",
+      "lastVerified": "2026-08-14"
     },
     {
       "slug": "kure",
@@ -46,7 +57,7 @@
         "Resilience I: 15% chance to clash into a grapple"
       ],
       "heavyEffect": "Takedown: M2 headbutt grab disorients for 1.5× damage",
-      "lastVerified": "2026-07-13"
+      "lastVerified": "2026-08-14"
     },
     {
       "slug": "capoeira",
@@ -62,7 +73,7 @@
         "Ginga: dash cooldown reduced by 25%"
       ],
       "heavyEffect": "Ginga: 25% shorter dash cooldown; M2 knockdown",
-      "lastVerified": "2026-07-13"
+      "lastVerified": "2026-08-14"
     },
     {
       "slug": "wrestling",
@@ -79,7 +90,7 @@
         "Resilience V (MAX): 55% chance to clash into a grapple"
       ],
       "heavyEffect": "Takedown: M2 grab throw for 1.5× damage, with hyperarmor",
-      "lastVerified": "2026-07-13"
+      "lastVerified": "2026-08-14"
     },
     {
       "slug": "hakari",
@@ -90,7 +101,7 @@
       "recommendedHeight": "Tall, around 6'0\" / 183 cm or taller (takes advantage of the reach from kicks; slower, patient playstyle)",
       "perks": [],
       "heavyEffect": "Black Flash: available after an M1 string, then press R (a signature Hakari mechanic)",
-      "lastVerified": "2026-08-08"
+      "lastVerified": "2026-08-14"
     },
     {
       "slug": "boxing",
@@ -105,7 +116,7 @@
         "Guard Pierce III: 20% block chip damage on M1s; each blocked M2 punch drains 75% posture instead of guardbreaking"
       ],
       "heavyEffect": "Untouchable: M2 is a double hit with i-frames",
-      "lastVerified": "2026-07-13"
+      "lastVerified": "2026-08-14"
     },
     {
       "slug": "muay-thai",
@@ -121,7 +132,7 @@
         "Resilience V (MAX): 55% chance to clash into a grapple"
       ],
       "heavyEffect": "Guard Pierce V + Resilience V: 30% chip, 55% grapple",
-      "lastVerified": "2026-07-13"
+      "lastVerified": "2026-08-14"
     },
     {
       "slug": "slugger",
@@ -136,7 +147,7 @@
         "Resilience III: 35% chance to clash into a grapple"
       ],
       "heavyEffect": "Unstable: +30% damage dealt but +10% damage taken",
-      "lastVerified": "2026-07-13"
+      "lastVerified": "2026-08-14"
     },
     {
       "slug": "karate",
@@ -153,7 +164,7 @@
         "Resilience II: 25% chance to clash into a grapple"
       ],
       "heavyEffect": "Balanced Strike: M2 refunds 25% posture",
-      "lastVerified": "2026-07-13"
+      "lastVerified": "2026-08-14"
     },
     {
       "slug": "basic",
@@ -164,7 +175,7 @@
       "recommendedHeight": "Short–medium, around 5'3\" / 160 cm or less",
       "perks": [],
       "heavyEffect": "Starter style, no signature perk",
-      "lastVerified": "2026-07-13"
+      "lastVerified": "2026-08-14"
     }
   ]
 }

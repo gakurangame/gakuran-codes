@@ -5,7 +5,7 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/guides/faces",
-  "lastVerified": "2026-08-08",
+  "lastVerified": "2026-08-14",
   "faceTiers": [
     {
       "key": "regular",
@@ -21,7 +21,7 @@
       "maleChance": 0.25,
       "femaleChance": 0.25,
       "maleVariants": 3,
-      "femaleVariants": 3
+      "femaleVariants": 2
     },
     {
       "key": "epic",
@@ -29,7 +29,7 @@
       "maleChance": 0.1,
       "femaleChance": 0.1,
       "maleVariants": 1,
-      "femaleVariants": 2
+      "femaleVariants": 1
     },
     {
       "key": "gyaru",
@@ -127,11 +127,11 @@
     "naturalChance": 0.95,
     "dyeChance": 0.05,
     "dyeColors": [
-      "Blue",
-      "Red",
+      "Dark Blue",
+      "Dark Red",
       "Teal",
       "Purple",
-      "Green",
+      "Dark Green",
       "Pastel Pink",
       "White"
     ],
