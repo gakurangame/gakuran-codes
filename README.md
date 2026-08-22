@@ -5,7 +5,7 @@ Machine-readable, hand-verified data for the Roblox game **[(学乱) Gakuran](ht
 Every code below is **checked against the developers' own Trello board and Discord announcements** before it's marked active — not scraped from other code lists. Where the developers never published a reward amount, it says so instead of repeating a number from elsewhere. Data is maintained by [gakurantools.com](https://gakurantools.com) and refreshed whenever the developers ship a new code.
 
 <!-- last-verified:start -->
-**Last verified: 2026-08-14**
+**Last verified: 2026-08-22**
 <!-- last-verified:end -->
 
 ## Active Gakuran codes
@@ -13,9 +13,8 @@ Every code below is **checked against the developers' own Trello board and Disco
 <!-- active-codes:start -->
 | Code | Reward | Released | Status |
 |------|--------|----------|--------|
-| `SKATERBOY` | Free rerolls (amount unconfirmed) | — | ✅ Active |
-| `WINGCHAN` | Free rerolls (amount unconfirmed) | — | ✅ Active |
-| `WHY` | Free rerolls (amount unconfirmed) | — | ✅ Active |
+| `SINGALONG` | Free rerolls (amount unconfirmed) | — | ✅ Active |
+| `EATUP` | Free rerolls (amount unconfirmed) | — | ✅ Active |
 <!-- active-codes:end -->
 
 ### Expired codes
@@ -23,8 +22,14 @@ Every code below is **checked against the developers' own Trello board and Disco
 <!-- expired-codes:start -->
 | Code | Reward | Status |
 |------|--------|--------|
+| `SMALL` | Free rerolls (amount unconfirmed) | ❌ Expired |
+| `IDK` | Free rerolls (amount unconfirmed) | ❌ Expired |
+| `SMALLRESTART` | Free rerolls (amount unconfirmed) | ❌ Expired |
+| `WHY` | Free rerolls (amount unconfirmed) | ❌ Expired |
+| `WINGCHAN` | Free rerolls (amount unconfirmed) | ❌ Expired |
+| `SKATERBOY` | Free rerolls (amount unconfirmed) | ❌ Expired |
 | `ALI` | Free rerolls (amount unconfirmed) | ❌ Expired |
-| `J*BS` | Never published — the board masked the spelling | ❌ Expired |
+| `J*BS` | Amount never published; the board briefly listed it unmasked as JOBS | ❌ Expired |
 | `THECODEIS` | Free rerolls (amount unconfirmed) | ❌ Expired |
 | `QUICKPATCH` | Free rerolls (amount unconfirmed) | ❌ Expired |
 | `MUSICFIXESNOPTIMIZATION` | Free rerolls (amount unconfirmed) | ❌ Expired |

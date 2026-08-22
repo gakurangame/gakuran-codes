@@ -5,145 +5,175 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/codes",
-  "lastVerified": "2026-08-14",
+  "lastVerified": "2026-08-22",
   "codes": [
     {
-      "code": "SKATERBOY",
+      "code": "SINGALONG",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "active",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
-      "code": "WINGCHAN",
+      "code": "EATUP",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "active",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
+    },
+    {
+      "code": "SMALL",
+      "reward": "Free rerolls (amount unconfirmed)",
+      "status": "expired",
+      "lastVerified": "2026-08-22"
+    },
+    {
+      "code": "IDK",
+      "reward": "Free rerolls (amount unconfirmed)",
+      "status": "expired",
+      "lastVerified": "2026-08-22"
+    },
+    {
+      "code": "SMALLRESTART",
+      "reward": "Free rerolls (amount unconfirmed)",
+      "status": "expired",
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "WHY",
       "reward": "Free rerolls (amount unconfirmed)",
-      "status": "active",
-      "lastVerified": "2026-08-14"
+      "status": "expired",
+      "lastVerified": "2026-08-22"
+    },
+    {
+      "code": "WINGCHAN",
+      "reward": "Free rerolls (amount unconfirmed)",
+      "status": "expired",
+      "lastVerified": "2026-08-22"
+    },
+    {
+      "code": "SKATERBOY",
+      "reward": "Free rerolls (amount unconfirmed)",
+      "status": "expired",
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "ALI",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "expired",
       "released": "2026-08-01",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "J*BS",
-      "reward": "Never published — the board masked the spelling",
+      "reward": "Amount never published; the board briefly listed it unmasked as JOBS",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "THECODEIS",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "QUICKPATCH",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "MUSICFIXESNOPTIMIZATION",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "CHESS",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "MAPUPDATE",
       "reward": "25 free rerolls",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "LARPSIMULATOR",
       "reward": "25 free rerolls",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "UMA",
       "reward": "10 free rerolls",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "SON",
       "reward": "5 free rerolls",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "SECRET",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "SECRET2",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "XAYSEYES",
       "reward": "Free rerolls (amount unconfirmed)",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "FIXES3",
       "reward": "15 free rerolls",
       "status": "expired",
       "released": "2026-07-09",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "2MIL",
       "reward": "15 free rerolls",
       "status": "expired",
       "released": "2026-07-08",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "FIXES2",
       "reward": "5 free rerolls",
       "status": "expired",
       "released": "2026-07-08",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "FIXES",
       "reward": "10 free rerolls",
       "status": "expired",
       "released": "2026-07-08",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "15REROLLS",
       "reward": "15 free rerolls",
       "status": "expired",
       "released": "2026-07-05",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     },
     {
       "code": "GAKURAN",
       "reward": "Launch code",
       "status": "expired",
-      "lastVerified": "2026-08-14"
+      "lastVerified": "2026-08-22"
     }
   ]
 }

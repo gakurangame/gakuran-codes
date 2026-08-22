@@ -5,7 +5,7 @@
   "platform": "Roblox",
   "license": "CC-BY-4.0",
   "source": "https://gakurantools.com/fighting-styles",
-  "lastVerified": "2026-08-14",
+  "lastVerified": "2026-08-19",
   "rarityRates": {
     "???": 0.00075,
     "Legendary": 0.01,
@@ -117,6 +117,22 @@
       ],
       "heavyEffect": "Untouchable: M2 is a double hit with i-frames",
       "lastVerified": "2026-08-14"
+    },
+    {
+      "slug": "striker",
+      "name": "Striker",
+      "rarity": "Epic",
+      "tierDropRate": 0.1,
+      "heightFit": "any",
+      "recommendedHeight": "Not published yet — the card's Recommended Build section says one \"will be added once a META surfaces\"",
+      "perks": [
+        "Broken Rhythm: every hit in the chain winds up faster than the one before it, 0.35s down to 0.12s, so the combo never lands on the same beat twice",
+        "Feint: your crit throws a fake kick at 0.15s and lands the real one at 0.45s — parry the feint and you eat it",
+        "Guard Pierce III: 20% block chip damage bleeds through guard",
+        "Resilience II: 25% chance to clash into a grapple when M1s meet"
+      ],
+      "heavyEffect": "Feint: the crit throws a fake kick at 0.15s and lands the real one at 0.45s, so a parry read off the first kick eats the second",
+      "lastVerified": "2026-08-19"
     },
     {
       "slug": "muay-thai",
